@@ -22,7 +22,7 @@
   "dependencies": {
     "@nestjs/common": "^7.1.1",
     "@nestjs/core": "^7.1.1",
-    "@nestjs/graphql": "^7.5.5",
+    "@nestjs/graphql": "next",
     "@nestjs/platform-express": "^7.1.1",
     "apollo-server-express": "^2.15.1",
     "graphql": "^15.3.0",
